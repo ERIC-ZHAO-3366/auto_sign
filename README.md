@@ -1,7 +1,3 @@
-# auto_sign
-sign third part of yz shop
+这个仓库到这儿结束了
 
-wait update
-
-2024 Update原神 启动！
-研究发现钉钉可以自动登录，但是会换cookie
+下次再见
